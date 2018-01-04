@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+    <name>Verify Start</name>
+
+    <author>theubie / lorki97</author>
+
+    <url>https://ludeon.com/forums/index.php?topic=37839.0</url>
+
+    <targetVersion>0.18.0</targetVersion>
+
+<description>
+A mod that checks your colonists stats before you press the button to start your adventure.
+
+Originally made by TheUbie
+
+Updated to B18 by lorki97
+
+[Version 1.1.5]
+
+Changelog:
+
+1.1.5:
+	- Fixed Lock/Ignore Button
+1.1.4:
+	- Updated to B18
+1.1.3:
+	- Updated to A17
+</description>
+
+</ModMetaData>
